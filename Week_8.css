@@ -1,0 +1,112 @@
+header {
+    width: 50%;
+    padding: 1px;
+    /* margin: 25px; */
+    border: 2px solid black;
+border-radius: 10px;
+    background-color: transparent;
+    color: black;
+    text-align:;
+    height: 100px;
+    text-align:right;
+   
+}
+
+#header-background{
+    width: 100%;
+    /* height: 100px; */
+    background:url('https://img.artlogic.net/w_2020,h_1160,c_limit/exhibit-e/57fc09a387aa2cd8054ead52/231c4202abb86c5e34353659a6825a36.jpeg');
+/* opacity: .5; */
+background-position:left;
+}
+
+#table{
+    width: 100%;
+    text-align: left;
+
+}
+
+#link-location{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 5rem;
+
+}
+
+#footer{
+    position: absolute;
+    
+    bottom: 0;
+    height: 2.5rem;
+    right: 0;
+    
+    
+}
+
+
+
+h1 {
+    font-size: 25px;
+    font-weight: 300;
+    
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 2.5em;
+
+} 
+
+h3 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.ordered-list {
+    list-style-type: none;
+
+}
+
+.photographs {
+    padding: 25px;
+}
+
+/* img { ---can't seem to make this work for a dynamic image
+    max-width: 100%;
+    /* width:auto; */
+    /* height: auto;
+} */ */
+
+.ordered-list {
+    list-style: none;
+    align-content: left;
+    align-items: left ;
+    left: 5px;
+
+}
+
+.list-item {
+    text-decoration: underline;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.form {
+width: 12%;
+  padding: 15px;
+  margin: 18px;
+  border-style: dashed;
+  border-color: black;
+  text-align: left;
+
+
+}
+
+
+a:link {text-decoration: none; color: magenta;}
+a:visited {text-decoration: none; color: black;}
+a:hover {color: blueviolet; text-decoration: none;}
+a:active {color: blueviolet; text-decoration: none;}
